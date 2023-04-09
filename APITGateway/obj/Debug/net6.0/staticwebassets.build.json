@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p+TCQ6TDR9Rj5Ocw1weoGpeHKSxx7ZiFnq4P5sMKFdU=",
+  "Source": "APITGateway",
+  "BasePath": "_content/APITGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

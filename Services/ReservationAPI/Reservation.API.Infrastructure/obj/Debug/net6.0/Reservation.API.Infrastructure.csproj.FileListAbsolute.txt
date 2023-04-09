@@ -1,0 +1,15 @@
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Infrastructure.deps.json
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Infrastructure.dll
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Infrastructure.pdb
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Models.dll
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Models.pdb
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.AssemblyInfo.cs
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.csproj.CopyComplete
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.dll
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\refint\Reservation.API.Infrastructure.dll
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.pdb
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\ref\Reservation.API.Infrastructure.dll

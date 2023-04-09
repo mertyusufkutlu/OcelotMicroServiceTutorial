@@ -1,0 +1,15 @@
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net6.0\Contact.API.Infrastructure.deps.json
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net6.0\Contact.API.Infrastructure.dll
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net6.0\Contact.API.Infrastructure.pdb
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net6.0\Contact.API.Models.dll
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net6.0\Contact.API.Models.pdb
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.AssemblyInfo.cs
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.csproj.CopyComplete
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.dll
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\refint\Contact.API.Infrastructure.dll
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.pdb
+C:\Users\Mert\RiderProjects\MicroServicesTutorial\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net6.0\ref\Contact.API.Infrastructure.dll
